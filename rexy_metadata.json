@@ -1,0 +1,12 @@
+{
+  "name": "REXY of the Trenches",
+  "symbol": "REXMEN",
+  "description": "The degen husky who barked at the bottom. Born from the trenches, rising to alpha. #REXYTheMenace #REXMEN",
+  "image": "https://zenora.bg/wp-content/uploads/2025/06/9EB0B56A-F346-4B90-8FFF-E40D4DE5E70F.png",
+  "attributes": [
+    { "trait_type": "Origin", "value": "The Trenches" },
+    { "trait_type": "Species", "value": "Husky" },
+    { "trait_type": "Energy", "value": "Meme Momentum" },
+    { "trait_type": "Role", "value": "Alpha" }
+  ]
+}
