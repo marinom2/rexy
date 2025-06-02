@@ -1,6 +1,7 @@
 {
   "name": "REXY of the Trenches",
   "symbol": "REXMEN",
+  "uri": "https://raw.githubusercontent.com/marinom2/rexy/main/rexy_log.PNG",
   "description": "The degen husky who barked at the bottom. Born from the trenches, rising to alpha. #REXYTofTheTrenches #REXMEN",
   "seller_fee_basis_points": 500,
   "image": "https://raw.githubusercontent.com/marinom2/rexy/main/rexy_log.PNG",
@@ -22,7 +23,7 @@
     "category": "image",
     "creators": [
       {
-        "address": "GjqrK1hgrPTrqz97jzg3BN67yXy2LucqyPMcy47VekhH",
+        "address": "AgrEZARqTJCjaCDoWXJMsMndDVUADhxu9pLbkfiFYLyE",
         "share": 100
       }
     ]
