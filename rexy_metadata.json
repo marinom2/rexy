@@ -4,12 +4,13 @@
   "description": "The degen husky who barked at the bottom. Born from the trenches, rising to alpha. #REXYTofTheTrenches #REXMEN",
   "seller_fee_basis_points": 500,
   "image": "https://raw.githubusercontent.com/marinom2/rexy/main/rexy_log.PNG",
-  "external_url": "https://rexy.gg",
+  "external_url": "https://rexythemenace.zenora.bg",
   "attributes": [
     { "trait_type": "Origin", "value": "The Trenches" },
     { "trait_type": "Species", "value": "Husky" },
     { "trait_type": "Energy", "value": "Meme Momentum" },
-    { "trait_type": "Role", "value": "Alpha" }
+    { "trait_type": "Role", "value": "Alpha" },
+    { "trait_type": "X Profile", "value": "https://x.com/rexythemenace?s=11" }
   ],
   "properties": {
     "files": [
