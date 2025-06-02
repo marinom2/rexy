@@ -1,9 +1,9 @@
 {
   "name": "REXY of the Trenches",
   "symbol": "REXMEN",
-  "description": "The degen husky who barked at the bottom. Born from the trenches, rising to alpha. #REXYTheMenace #REXMEN",
+  "description": "The degen husky who barked at the bottom. Born from the trenches, rising to alpha. #REXYTofTheTrenches #REXMEN",
   "seller_fee_basis_points": 500,
-  "image": "https://zenora.bg/wp-content/uploads/2025/06/9EB0B56A-F346-4B90-8FFF-E40D4DE5E70F.png",
+  "image": "https://raw.githubusercontent.com/marinom2/rexy/main/rexy_log.PNG",
   "external_url": "https://rexy.gg",
   "attributes": [
     { "trait_type": "Origin", "value": "The Trenches" },
@@ -14,7 +14,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://zenora.bg/wp-content/uploads/2025/06/9EB0B56A-F346-4B90-8FFF-E40D4DE5E70F.png",
+        "uri": "https://raw.githubusercontent.com/marinom2/rexy/main/rexy_log.PNG",
         "type": "image/png"
       }
     ],
