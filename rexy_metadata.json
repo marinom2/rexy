@@ -1,19 +1,20 @@
 {
-  "name": "REXY Saga",
+  "name": "REXY of the Trenches",
   "symbol": "REXY",
-  "description": "The official REXY collection — a meme-born husky from the trenches, rising to become the alpha. Built by the community, for the pack.",
-  "image": "https://raw.githubusercontent.com/marinom2/rexy/main/rexy_log.PNG",
+  "uri": "https://raw.githubusercontent.com/marinom2/rexy/main/rexy_log.PNG",
+  "description": "REXY slipped out of a comic strip, barked on-chain, and never looked back. Mischief in his paws, memes in his blood, and a mission to bite the moon. No rugs. Only runs.",
   "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/marinom2/rexy/main/rexy_log.PNG",
   "attributes": [
-    { "trait_type": "Origin", "value": "The Trenches" },
+    { "trait_type": "Collection", "value": "Rexy Saga" },
     { "trait_type": "Species", "value": "Husky" },
-    { "trait_type": "Mission", "value": "Rise to Alpha" },
-    { "trait_type": "Tagline", "value": "No Rugs. Only Runs." }
+    { "trait_type": "Style", "value": "Comic-Based" },
+    { "trait_type": "Energy", "value": "FOMO Fuel" },
+    { "trait_type": "Role", "value": "Alpha Menace" },
+    { "trait_type": "Tagline", "value": "No Rugs. Only Runs." },
+    { "trait_type": "Mission", "value": "Turn Degens into Legends" },
+    { "trait_type": "X Profile", "value": "https://x.com/rexythemenace?s=11" }
   ],
-  "collection": {
-    "name": "REXY Saga",
-    "family": "REXY"
-  },
   "properties": {
     "files": [
       {
