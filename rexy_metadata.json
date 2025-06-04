@@ -1,18 +1,19 @@
 {
-  "name": "REXY of the Trenches",
-  "symbol": "REXMEN",
-  "uri": "https://raw.githubusercontent.com/marinom2/rexy/main/rexy_log.PNG",
-  "description": "The degen husky who barked at the bottom. Born from the trenches, rising to alpha. #REXYTofTheTrenches #REXMEN",
-  "seller_fee_basis_points": 500,
+  "name": "REXY Saga",
+  "symbol": "REXY",
+  "description": "The official REXY collection — a meme-born husky from the trenches, rising to become the alpha. Built by the community, for the pack.",
   "image": "https://raw.githubusercontent.com/marinom2/rexy/main/rexy_log.PNG",
-  "external_url": "https://rexythemenace.zenora.bg",
+  "seller_fee_basis_points": 500,
   "attributes": [
     { "trait_type": "Origin", "value": "The Trenches" },
     { "trait_type": "Species", "value": "Husky" },
-    { "trait_type": "Energy", "value": "Meme Momentum" },
-    { "trait_type": "Role", "value": "Alpha" },
-    { "trait_type": "X Profile", "value": "https://x.com/rexythemenace?s=11" }
+    { "trait_type": "Mission", "value": "Rise to Alpha" },
+    { "trait_type": "Tagline", "value": "No Rugs. Only Runs." }
   ],
+  "collection": {
+    "name": "REXY Saga",
+    "family": "REXY"
+  },
   "properties": {
     "files": [
       {
